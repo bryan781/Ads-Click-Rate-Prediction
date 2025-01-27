@@ -1,8 +1,8 @@
-## Ads Click Rate Prediction
+# Ads Click Rate Prediction
 
 Ads Click-through rate prediction means predicting whether the user will click on the ad. In the task of ads click-through rate prediction, we need to train a Machine Learning model to find relationships between the characteristics of all the users who click on ads.
 
-# Dataset Description
+## Dataset Description
 1. Daily Time Spent on Site: the daily timespan of the user on the website;
 2. Age: the age of the user;
 3. Area Income: the average income in the area of the user;
